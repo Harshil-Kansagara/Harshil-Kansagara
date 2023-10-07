@@ -1,7 +1,7 @@
 # Hey, I'm Harshil Kansagara 👋
 
 <h3 align="left">Professional Full-Stack Developer 💻</h3>
-<h4 align="lect">Passionate about learning new frameworks and technology</h4>
+<h4 align="left">Passionate about learning new frameworks and technology</h4>
 
 ## About Me
 <p align="justify">Nice to meet you! I'm currently working at Infosys as a Technology Analyst. I'm a passionate developer with a proven track record of successfully implementing and managing diverse technological solutions. I am proficient in doing research and analysis on any new tech stack. I am able to efficiently self-manage independent projects, collaborate as a part of productive teams, and finish projects on a scheduled timeline.
