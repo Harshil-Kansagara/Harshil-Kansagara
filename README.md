@@ -4,7 +4,7 @@
 <h4 align="left">Passionate about learning new frameworks and technology</h4>
 
 ## About Me
-<p align="justify">Nice to meet you! I'm currently working at Infosys as a Technology Analyst. I'm a passionate developer with a proven track record of successfully implementing and managing diverse technological solutions. I am proficient in doing research and analysis on any new tech stack. I am able to efficiently self-manage independent projects, collaborate as a part of productive teams, and finish projects on a scheduled timeline.
+<p align="justify">Nice to meet you! I'm currently working at Nagarro as an Associate Staff Engineer. I'm a passionate developer with a proven track record of successfully implementing and managing diverse technological solutions. I am proficient in doing research and analysis on any new tech stack. I can efficiently self-manage independent projects, collaborate as a part of productive teams, and finish projects on a scheduled timeline.
 
 I occasionally blog and tweet about different technologies and programming languages.
 
